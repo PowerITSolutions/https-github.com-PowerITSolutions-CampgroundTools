@@ -1,0 +1,639 @@
+[
+  {
+    "MeetingID": 2,
+    "RoomID": 1,
+    "Attendees": [
+      2
+    ],
+    "Title": "Meeting with customers.",
+    "Description": "",
+    "StartTimezone": null,
+    "Start": "/Date(1370865600000)/",
+    "End": "/Date(1370872800000)/",
+    "EndTimezone": null,
+    "RecurrenceRule": null,
+    "RecurrenceID": null,
+    "RecurrenceException": null,
+    "IsAllDay": true
+  },
+  {
+    "MeetingID": 3,
+    "RoomID": 2,
+    "Attendees": [
+      1,
+      2
+    ],
+    "Title": "Guided tour for the investors.",
+    "Description": "",
+    "StartTimezone": null,
+    "Start": "/Date(1370865600000)/",
+    "End": "/Date(1370872800000)/",
+    "EndTimezone": null,
+    "RecurrenceRule": null,
+    "RecurrenceID": null,
+    "RecurrenceException": null,
+    "IsAllDay": true
+  },
+  {
+    "MeetingID": 4,
+    "RoomID": 1,
+    "Attendees": [
+      1,
+      2,
+      3
+    ],
+    "Title": "Product planning",
+    "Description": "",
+    "StartTimezone": null,
+    "Start": "/Date(1371006000000)/",
+    "End": "/Date(1371006000000)/",
+    "EndTimezone": null,
+    "RecurrenceRule": null,
+    "RecurrenceID": null,
+    "RecurrenceException": null,
+    "IsAllDay": true
+  },
+  {
+    "MeetingID": 5,
+    "RoomID": 1,
+    "Attendees": [
+      2,
+      3
+    ],
+    "Title": "Acquisition discussion",
+    "Description": "",
+    "StartTimezone": null,
+    "Start": "/Date(1371211200000)/",
+    "End": "/Date(1371222000000)/",
+    "EndTimezone": null,
+    "RecurrenceRule": null,
+    "RecurrenceID": null,
+    "RecurrenceException": null,
+    "IsAllDay": true
+  },
+  {
+    "MeetingID": 7,
+    "RoomID": 1,
+    "Attendees": [
+      1,
+      2
+    ],
+    "Title": "Job Interview - Mathew Stevens",
+    "Description": "Junior Researcher",
+    "StartTimezone": null,
+    "Start": "/Date(1372413600000)/",
+    "End": "/Date(1372419000000)/",
+    "EndTimezone": null,
+    "RecurrenceRule": null,
+    "RecurrenceID": null,
+    "RecurrenceException": null,
+    "IsAllDay": true
+  },
+  {
+    "MeetingID": 8,
+    "RoomID": 1,
+    "Attendees": [
+      1,
+      2
+    ],
+    "Title": "Job Interview - Mary Smith",
+    "Description": "Accountant",
+    "StartTimezone": null,
+    "Start": "/Date(1372082400000)/",
+    "End": "/Date(1372087800000)/",
+    "EndTimezone": null,
+    "RecurrenceRule": null,
+    "RecurrenceID": null,
+    "RecurrenceException": null,
+    "IsAllDay": true
+  },
+  {
+    "MeetingID": 9,
+    "RoomID": 2,
+    "Attendees": [
+      1,
+      2
+    ],
+    "Title": "Job Interview - John Stewart",
+    "Description": "Accountant",
+    "StartTimezone": null,
+    "Start": "/Date(1372156200000)/",
+    "End": "/Date(1372161600000)/",
+    "EndTimezone": null,
+    "RecurrenceRule": null,
+    "RecurrenceID": null,
+    "RecurrenceException": null,
+    "IsAllDay": true
+  },
+  {
+    "MeetingID": 10,
+    "RoomID": 1,
+    "Attendees": [
+      1,
+      3
+    ],
+    "Title": "Job Interview - Laura Bailey",
+    "Description": "Helpdesk",
+    "StartTimezone": null,
+    "Start": "/Date(1372176000000)/",
+    "End": "/Date(1372181400000)/",
+    "EndTimezone": null,
+    "RecurrenceRule": null,
+    "RecurrenceID": null,
+    "RecurrenceException": null,
+    "IsAllDay": true
+  },
+  {
+    "MeetingID": 11,
+    "RoomID": 1,
+    "Attendees": [
+      1,
+      3
+    ],
+    "Title": "Job Interview - Jenny Baxter",
+    "Description": "Helpdesk",
+    "StartTimezone": null,
+    "Start": "/Date(1372323600000)/",
+    "End": "/Date(1372329000000)/",
+    "EndTimezone": null,
+    "RecurrenceRule": null,
+    "RecurrenceID": null,
+    "RecurrenceException": null,
+    "IsAllDay": true
+  },
+  {
+    "MeetingID": 12,
+    "RoomID": 2,
+    "Attendees": [
+      1,
+      3
+    ],
+    "Title": " Job Interview - Bernard Atkins",
+    "Description": "Helpdesk",
+    "StartTimezone": null,
+    "Start": "/Date(1372258800000)/",
+    "End": "/Date(1372264200000)/",
+    "EndTimezone": null,
+    "RecurrenceRule": null,
+    "RecurrenceID": null,
+    "RecurrenceException": null,
+    "IsAllDay": true
+  },
+  {
+    "MeetingID": 13,
+    "RoomID": 2,
+    "Attendees": [
+      1,
+      2
+    ],
+    "Title": "Marketing Meeting",
+    "Description": "",
+    "StartTimezone": null,
+    "Start": "/Date(1370422800000)/",
+    "End": "/Date(1370430000000)/",
+    "EndTimezone": null,
+    "RecurrenceRule": null,
+    "RecurrenceID": null,
+    "RecurrenceException": null,
+    "IsAllDay": true
+  },
+  {
+    "MeetingID": 14,
+    "RoomID": 1,
+    "Attendees": [
+      3
+    ],
+    "Title": "Phone Sync with NY Office",
+    "Description": "",
+    "StartTimezone": null,
+    "Start": "/Date(1372239000000)/",
+    "End": "/Date(1372242600000)/",
+    "EndTimezone": null,
+    "RecurrenceRule": null,
+    "RecurrenceID": null,
+    "RecurrenceException": null,
+    "IsAllDay": true
+  },
+  {
+    "MeetingID": 15,
+    "RoomID": 1,
+    "Attendees": [
+      3
+    ],
+    "Title": "Phone Sync with Boston Office",
+    "Description": "",
+    "StartTimezone": null,
+    "Start": "/Date(1372257000000)/",
+    "End": "/Date(1372260600000)/",
+    "EndTimezone": null,
+    "RecurrenceRule": null,
+    "RecurrenceID": null,
+    "RecurrenceException": null,
+    "IsAllDay": true
+  },
+  {
+    "MeetingID": 16,
+    "RoomID": 2,
+    "Attendees": [
+      1
+    ],
+    "Title": "Short HR Presentation",
+    "Description": "",
+    "StartTimezone": null,
+    "Start": "/Date(1372251600000)/",
+    "End": "/Date(1372253400000)/",
+    "EndTimezone": null,
+    "RecurrenceRule": null,
+    "RecurrenceID": null,
+    "RecurrenceException": null,
+    "IsAllDay": true
+  },
+  {
+    "MeetingID": 17,
+    "RoomID": 1,
+    "Attendees": [
+      2
+    ],
+    "Title": "Discuss new website designs",
+    "Description": "",
+    "StartTimezone": null,
+    "Start": "/Date(1372165200000)/",
+    "End": "/Date(1372170600000)/",
+    "EndTimezone": null,
+    "RecurrenceRule": null,
+    "RecurrenceID": null,
+    "RecurrenceException": null,
+    "IsAllDay": true
+  },
+  {
+    "MeetingID": 18,
+    "RoomID": 2,
+    "Attendees": [
+      1,
+      2,
+      3
+    ],
+    "Title": "Status Meeting",
+    "Description": "",
+    "StartTimezone": null,
+    "Start": "/Date(1370365200000)/",
+    "End": "/Date(1370370600000)/",
+    "EndTimezone": null,
+    "RecurrenceRule": null,
+    "RecurrenceID": null,
+    "RecurrenceException": null,
+    "IsAllDay": true
+  },
+  {
+    "MeetingID": 19,
+    "RoomID": 2,
+    "Attendees": [
+      1,
+      2
+    ],
+    "Title": "Evaluations",
+    "Description": "",
+    "StartTimezone": null,
+    "Start": "/Date(1371114000000)/",
+    "End": "/Date(1371142800000)/",
+    "EndTimezone": null,
+    "RecurrenceRule": null,
+    "RecurrenceID": null,
+    "RecurrenceException": null,
+    "IsAllDay": true
+  },
+  {
+    "MeetingID": 20,
+    "RoomID": 1,
+    "Attendees": [
+      1,
+      3
+    ],
+    "Title": "Job Interview - Bobby Rooney",
+    "Description": "Helpdesk",
+    "StartTimezone": null,
+    "Start": "/Date(1370253600000)/",
+    "End": "/Date(1370259000000)/",
+    "EndTimezone": null,
+    "RecurrenceRule": null,
+    "RecurrenceID": null,
+    "RecurrenceException": null,
+    "IsAllDay": true
+  },
+  {
+    "MeetingID": 21,
+    "RoomID": 2,
+    "Attendees": [
+      3
+    ],
+    "Title": "Weekly support meeting",
+    "Description": "",
+    "StartTimezone": null,
+    "Start": "/Date(1370530800000)/",
+    "End": "/Date(1370536200000)/",
+    "EndTimezone": null,
+    "RecurrenceRule": "FREQ=WEEKLY;BYDAY=TH",
+    "RecurrenceID": null,
+    "RecurrenceException": null,
+    "IsAllDay": true
+  },
+  {
+    "MeetingID": 22,
+    "RoomID": 2,
+    "Attendees": [
+      1,
+      2,
+      3
+    ],
+    "Title": "Performance review",
+    "Description": "",
+    "StartTimezone": null,
+    "Start": "/Date(1372428000000)/",
+    "End": "/Date(1372435200000)/",
+    "EndTimezone": null,
+    "RecurrenceRule": null,
+    "RecurrenceID": null,
+    "RecurrenceException": null,
+    "IsAllDay": true
+  },
+  {
+    "MeetingID": 23,
+    "RoomID": 2,
+    "Attendees": [
+      2
+    ],
+    "Title": "External call",
+    "Description": "",
+    "StartTimezone": null,
+    "Start": "/Date(1371812400000)/",
+    "End": "/Date(1371814200000)/",
+    "EndTimezone": null,
+    "RecurrenceRule": null,
+    "RecurrenceID": null,
+    "RecurrenceException": null,
+    "IsAllDay": true
+  },
+  {
+    "MeetingID": 24,
+    "RoomID": 2,
+    "Attendees": [
+      1,
+      2
+    ],
+    "Title": "Job Interview - Larry Thompson",
+    "Description": "Researcher",
+    "StartTimezone": null,
+    "Start": "/Date(1371463200000)/",
+    "End": "/Date(1371468600000)/",
+    "EndTimezone": null,
+    "RecurrenceRule": null,
+    "RecurrenceID": null,
+    "RecurrenceException": null,
+    "IsAllDay": true
+  },
+  {
+    "MeetingID": 25,
+    "RoomID": 1,
+    "Attendees": [
+      1
+    ],
+    "Title": "Marketing meetings",
+    "Description": "",
+    "StartTimezone": null,
+    "Start": "/Date(1370908800000)/",
+    "End": "/Date(1370908800000)/",
+    "EndTimezone": null,
+    "RecurrenceRule": null,
+    "RecurrenceID": null,
+    "RecurrenceException": null,
+    "IsAllDay": true
+  },
+  {
+    "MeetingID": 26,
+    "RoomID": 2,
+    "Attendees": [
+      2
+    ],
+    "Title": "External Call",
+    "Description": "",
+    "StartTimezone": null,
+    "Start": "/Date(1370957400000)/",
+    "End": "/Date(1370961000000)/",
+    "EndTimezone": null,
+    "RecurrenceRule": null,
+    "RecurrenceID": null,
+    "RecurrenceException": null,
+    "IsAllDay": true
+  },
+  {
+    "MeetingID": 27,
+    "RoomID": 2,
+    "Attendees": [
+      1,
+      2,
+      3
+    ],
+    "Title": "Monthly sales meeting",
+    "Description": "",
+    "StartTimezone": null,
+    "Start": "/Date(1371657600000)/",
+    "End": "/Date(1371663000000)/",
+    "EndTimezone": null,
+    "RecurrenceRule": "FREQ=MONTHLY;BYMONTHDAY=19",
+    "RecurrenceID": null,
+    "RecurrenceException": null,
+    "IsAllDay": true
+  },
+  {
+    "MeetingID": 28,
+    "RoomID": 1,
+    "Attendees": [
+      3
+    ],
+    "Title": "External phone call",
+    "Description": "",
+    "StartTimezone": null,
+    "Start": "/Date(1371461400000)/",
+    "End": "/Date(1371465000000)/",
+    "EndTimezone": null,
+    "RecurrenceRule": null,
+    "RecurrenceID": null,
+    "RecurrenceException": null,
+    "IsAllDay": true
+  },
+  {
+    "MeetingID": 29,
+    "RoomID": 2,
+    "Attendees": [
+      2,
+      3
+    ],
+    "Title": "Weekly tasks list update",
+    "Description": "",
+    "StartTimezone": null,
+    "Start": "/Date(1370275200000)/",
+    "End": "/Date(1370278800000)/",
+    "EndTimezone": null,
+    "RecurrenceRule": "FREQ=WEEKLY;BYDAY=MO",
+    "RecurrenceID": null,
+    "RecurrenceException": null,
+    "IsAllDay": true
+  },
+  {
+    "MeetingID": 30,
+    "RoomID": 2,
+    "Attendees": [
+      1
+    ],
+    "Title": "HR seminar planning",
+    "Description": "",
+    "StartTimezone": null,
+    "Start": "/Date(1370264400000)/",
+    "End": "/Date(1370269800000)/",
+    "EndTimezone": null,
+    "RecurrenceRule": null,
+    "RecurrenceID": null,
+    "RecurrenceException": null,
+    "IsAllDay": true
+  },
+  {
+    "MeetingID": 31,
+    "RoomID": 2,
+    "Attendees": [
+      2
+    ],
+    "Title": "Sales phone call",
+    "Description": "",
+    "StartTimezone": null,
+    "Start": "/Date(1370354400000)/",
+    "End": "/Date(1370358000000)/",
+    "EndTimezone": null,
+    "RecurrenceRule": null,
+    "RecurrenceID": null,
+    "RecurrenceException": null,
+    "IsAllDay": true
+  },
+  {
+    "MeetingID": 32,
+    "RoomID": 1,
+    "Attendees": [
+      3
+    ],
+    "Title": "Support phone call",
+    "Description": "",
+    "StartTimezone": null,
+    "Start": "/Date(1370340000000)/",
+    "End": "/Date(1370343600000)/",
+    "EndTimezone": null,
+    "RecurrenceRule": null,
+    "RecurrenceID": null,
+    "RecurrenceException": null,
+    "IsAllDay": true
+  },
+  {
+    "MeetingID": 33,
+    "RoomID": 1,
+    "Attendees": [
+      2
+    ],
+    "Title": "Meeting with Admin team",
+    "Description": "",
+    "StartTimezone": null,
+    "Start": "/Date(1370440800000)/",
+    "End": "/Date(1370444400000)/",
+    "EndTimezone": null,
+    "RecurrenceRule": null,
+    "RecurrenceID": null,
+    "RecurrenceException": null,
+    "IsAllDay": true
+  },
+  {
+    "MeetingID": 34,
+    "RoomID": 2,
+    "Attendees": [
+      1
+    ],
+    "Title": "Website review meeting",
+    "Description": "",
+    "StartTimezone": null,
+    "Start": "/Date(1370442600000)/",
+    "End": "/Date(1370449800000)/",
+    "EndTimezone": null,
+    "RecurrenceRule": null,
+    "RecurrenceID": null,
+    "RecurrenceException": null,
+    "IsAllDay": true
+  },
+  {
+    "MeetingID": 35,
+    "RoomID": 2,
+    "Attendees": [
+      3
+    ],
+    "Title": "Planning - software updates",
+    "Description": "",
+    "StartTimezone": null,
+    "Start": "/Date(1370451600000)/",
+    "End": "/Date(1370455200000)/",
+    "EndTimezone": null,
+    "RecurrenceRule": null,
+    "RecurrenceID": null,
+    "RecurrenceException": null,
+    "IsAllDay": true
+  },
+  {
+    "MeetingID": 36,
+    "RoomID": 1,
+    "Attendees": [
+      1,
+      2,
+      3
+    ],
+    "Title": "General Medical Examinations",
+    "Description": "",
+    "StartTimezone": null,
+    "Start": "/Date(1370476800000)/",
+    "End": "/Date(1370476800000)/",
+    "EndTimezone": null,
+    "RecurrenceRule": null,
+    "RecurrenceID": null,
+    "RecurrenceException": null,
+    "IsAllDay": true
+  },
+  {
+    "MeetingID": 37,
+    "RoomID": 2,
+    "Attendees": [
+      1,
+      2,
+      3
+    ],
+    "Title": "General Medical Examinations",
+    "Description": "",
+    "StartTimezone": null,
+    "Start": "/Date(1370476800000)/",
+    "End": "/Date(1370476800000)/",
+    "EndTimezone": null,
+    "RecurrenceRule": null,
+    "RecurrenceID": null,
+    "RecurrenceException": null,
+    "IsAllDay": true
+  },
+  {
+    "MeetingID": 38,
+    "RoomID": 1,
+    "Attendees": [
+      1
+    ],
+    "Title": "Medical Examination - results",
+    "Description": "",
+    "StartTimezone": null,
+    "Start": "/Date(1371686400000)/",
+    "End": "/Date(1371686400000)/",
+    "EndTimezone": null,
+    "RecurrenceRule": null,
+    "RecurrenceID": null,
+    "RecurrenceException": null,
+    "IsAllDay": true
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "name": "simpler",
+  "version": "0.0.1",
+  "description": "Online reservations system backoffice",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "simpler",
+    "reservation",
+    "npm",
+    "init"
+  ],
+  "author": "Rob Tracy",
+  "license": "MIT"
+}
